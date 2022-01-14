@@ -25,3 +25,5 @@ code .
 #### Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
+## License
+[MIT](https://github.com/main-hesflay/kodluyoruzilkrepo/blob/main/LICENSE)
