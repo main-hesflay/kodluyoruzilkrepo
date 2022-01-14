@@ -20,8 +20,12 @@ git clone https://github.com/main-hesflay/kodluyoruzilkrepo.git
 
 ```
 cd kodluyoruzilkrepo
+```
+
+```
 code .
 ```
+
 ## Constributing
 
 #### Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce değiştirmek istediğinizi tartışmak için bir konu açınız.
