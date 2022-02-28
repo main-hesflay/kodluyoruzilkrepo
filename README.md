@@ -22,6 +22,7 @@ git clone https://github.com/main-hesflay/kodluyoruzilkrepo.git
 cd kodluyoruzilkrepo
 ode .
 ```
+<br>
 
 ## Constributing
 
